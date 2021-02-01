@@ -5,6 +5,9 @@
 ![test image](test1.png)
 
 ## You can test the system by using the image in "Testing image for Detection and Recognition.pdf"
+### Email and Password: ""
 ### APK link: https://drive.google.com/file/d/1xVEWxUgDiXwN8oSMFnRBUyxhhSn1ypo8/view?usp=sharing
-### YouTube: https://youtu.be/-DN-RXbunY4
 
+### Reference:
+#### Object Detection: https://blog.roboflow.com/how-to-train-a-custom-mobile-object-detection-model/
+#### OCR: https://www.youtube.com/watch?v=fmTlgwgKJmE&t
